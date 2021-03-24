@@ -38,4 +38,4 @@ var menudata={children:[
 {text:"Functions",url:"globals_func.html"},
 {text:"Variables",url:"globals_vars.html"},
 {text:"Typedefs",url:"globals_type.html"}]}]},
-{text:"Go back to ",url:"https://csb-e997m-floziaznf-thealchemist1307.vercel.app/"}]}
+{text:"Go Back",url:"https://csb-e997m-floziaznf-thealchemist1307.vercel.app/"}]}
